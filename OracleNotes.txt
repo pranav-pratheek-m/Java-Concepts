@@ -1,0 +1,21 @@
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html(done)
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html(done)
+https://docs.oracle.com/javase/8/docs/api/java/lang/Exception.html(done)
+http://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html(done)
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html(done)
+https://docs.oracle.com/javase/tutorial/java/data/characters.html
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+https://docs.oracle.com/javase/specs/jls/se8/html/jls-5.html#jls-5.6.2
+https://docs.oracle.com/javase/tutorial/java/javaOO/usingobject.html
+https://docs.oracle.com/javase/tutorial/java/data/autoboxing.html
+https://docs.oracle.com/javase/7/docs/api/java/lang/Boolean.html
+https://docs.oracle.com/javase/tutorial/java/data/numberclasses.html
+https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html
+https://docs.oracle.com/javase/tutorial/java/javaOO/innerclasses.html
+https://docs.oracle.com/javase/tutorial/java/data/converting.html
+https://docs.oracle.com/javase/tutorial/java/data/buffers.html
+
+Just like how a manager of a sports team  knows the roles,scopes,strengths and weaknesses of his players well and trains them accordingly to produce accurate and best results,
+ a programmer should know the functionalities,scopes and limitations of different components of development and program execution to write manageable code and produce efficient applications.
+e.g. compiler can only check the code for compile time errors
+     Runtime environment chwcks the code for runtime time errors and exceptions.This is outside the scope of the compiler. 

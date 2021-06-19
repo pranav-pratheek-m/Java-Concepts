@@ -1,0 +1,6 @@
+Uncaught TypeError: Cannot read property 'localStream' of undefined
+    at HTMLInputElement.<anonymous> (meeting_bundle.js:1017)
+    at HTMLInputElement.dispatch (jquery-1.12.4.js:5226)
+    at HTMLInputElement.elemData.handle (jquery-1.12.4.js:4878)
+
+Uncaught (in promise) DOMException: Could not start video source

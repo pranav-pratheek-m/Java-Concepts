@@ -1,0 +1,512 @@
+[ Directory Abstract Class ]
+	Apple.class
+	[ Directory blueprint ]
+		Fruit.class
+		Fruit.java
+	ConcreteFruit.class
+	ConcreteFruit.java
+	ConcreteFruitMain.class
+	ConcreteFruitMain.java
+	Orange.class
+	Sapota.class
+[ Directory Access Modifiers ]
+	[ Directory Protected ]
+		[ Directory MainPackage ]
+			Child.class
+			CloseRelative.class
+			DistantRelative.class
+			NormalRelative.class
+			Parent.class
+			ProtectedTest.class
+			Stranger.class
+		[ Directory MainPackage source files ]
+			Child.java
+			CloseRelative.java
+			DistantRelative.java
+			NormalRelative.java
+			Parent.java
+			ProtectedTest.java
+			Stranger.java
+		[ Directory SubPackage ]
+			OutsidePackage.class
+			Stranger.class
+		[ Directory SubPackage source files ]
+			OutsidePackage.java
+			Stranger.java
+[ Directory Comparator ]
+	[ Directory CarCompareMain ]
+		Car.class
+		CarCompare.class
+		CarCompareMain.class
+		CarCompareMain.java
+		MileageCompare.class
+		NameCompare.class
+		PriceCompare.class
+[ Directory Constructors ]
+	[ Directory Bottom ]
+		Bottom.class
+		Bottom.java
+		New Text Document.txt
+		Top.class
+	[ Directory Constructor Hierarchy ]
+		Child.class
+		ChildMain.class
+		ChildMain.java
+		Father.class
+		GrandFather.class
+	[ Directory Constructor Overloading ]
+		Child.class
+		ChildOverloading.class
+		ChildOverloading.java
+		Father.class
+		GrandFather.class
+	[ Directory Constructor Overloading Ordered ]
+		Child.class
+		ChildOverloadingOrdered.class
+		ChildOverloadingOrdered.java
+		Father.class
+		GrandFather.class
+		[ Directory With no arguements first ]
+			Child.class
+			ChildOverloadingOrdered.class
+			ChildOverloadingOrdered.java
+			Father.class
+			GrandFather.class
+	[ Directory Dog Main ]
+		Dog.class
+		DogMain.class
+		DogMain.java
+		GermanShepherd.class
+	[ Directory House ]
+		Building.class
+		House.class
+		House.java
+	[ Directory New folder ]
+		EMPTY....
+
+	[ Directory Student ]
+		CollegeStudent.class
+		GenericStudent.class
+		New Text Document.txt
+		PhdStudent.class
+		SchoolStudent.class
+		StudentMain.class
+		StudentMain.java
+		UniversityStudent.class
+[ Directory Date Time ]
+	DateTimeTest.class
+	DateTimeTest.java
+[ Directory Encapsulation ]
+	New Text Document.txt
+	NumberResult.class
+	NumberResultMain.class
+	NumberResultMain.java
+	NumbersAdd.class
+[ Directory Enums ]
+	[ Directory Coffee Order(inside class) ]
+		Doughnut$DoughnutType.class
+		Doughnut.class
+		DoughnutMain.class
+		DoughnutMain.java
+		DoughnutType.class
+		New Text Document.txt
+	[ Directory Coffee Order(outside class) ]
+		Coffee.class
+		CoffeeMain.class
+		CoffeeMain.java
+		CoffeeSize.class
+	[ Directory Voter Age ]
+		New Text Document.txt
+		Voter$VoterAge.class
+		Voter.class
+		VoterMain.class
+		VoterMain.java
+[ Directory Environmental variables and system properties ]
+	EnvVariableMain.class
+	EnvVariableMain.java
+[ Directory Exec command ]
+	CommandLineArguements.class
+	CommandLineArguements.java
+	New Text Document.txt
+[ Directory Garbage Collection ]
+	GarbageCollection.class
+	GarbageCollection.java
+	New Text Document.txt
+[ Directory HASHCODE ]
+	Hash.class
+	Hash.java
+[ Directory Interfaces ]
+	[ Directory DefaultStaticMethods ]
+		DefaultStaticMethodsMain.java
+		Implementable.class
+		New Text Document.txt
+	Implementable.class
+	InterfacesMain.class
+	InterfacesMain.java
+	New Text Document.txt
+[ Directory Java Code Samples ]
+	[ Directory constructors ]
+		[ Directory .git ]
+			COMMIT_EDITMSG
+			config
+			description
+			FETCH_HEAD
+			HEAD
+			[ Directory hooks ]
+				applypatch-msg.sample
+				commit-msg.sample
+				fsmonitor-watchman.sample
+				post-update.sample
+				pre-applypatch.sample
+				pre-commit.sample
+				pre-merge-commit.sample
+				pre-push.sample
+				pre-rebase.sample
+				pre-receive.sample
+				prepare-commit-msg.sample
+				update.sample
+			index
+			[ Directory info ]
+				exclude
+			[ Directory logs ]
+				HEAD
+				[ Directory refs ]
+					[ Directory heads ]
+						master
+					[ Directory remotes ]
+						[ Directory origin ]
+							HEAD
+							master
+			[ Directory objects ]
+				[ Directory 04 ]
+					69c9d01e7be2697122df76db6cb1d4b027b520
+				[ Directory 05 ]
+					a28ae59d8053a1f083d2e6eb10533ebe481994
+				[ Directory 14 ]
+					855948128a9c4a9d29a48df5fcdbf15106e332
+					c6fb266375ed032929dd8e1b5e7e93bfcc8eb3
+				[ Directory 21 ]
+					484c5c0b7bc0d27e297b151da86ef3cd71e654
+				[ Directory 39 ]
+					af52c077c0d4c3bc7730b362592e0bf7f635db
+				[ Directory 3b ]
+					ee35d48cf314a46fac7f0e7bdc09097672f934
+				[ Directory 45 ]
+					47dda789a60f8ba5011ce9399facda0464d7ee
+				[ Directory 47 ]
+					8afd1ba7c6c85efbd61cf70e31e43aab4d62b9
+				[ Directory 57 ]
+					8ed8db18ece1797b510b2ff4ffd756c0758adc
+				[ Directory 5b ]
+					3b1e515f2ae1f3ab45557e39e60af2e7726b04
+				[ Directory 74 ]
+					83c46592c3672b1fb9183609ae4159fb8839c0
+				[ Directory 75 ]
+					015e98882321c746c7cf100aca215a7c93a1c8
+					26d8f300bac8342b5de86fe4784dfa49968fc9
+				[ Directory 81 ]
+					3c65e2a5a78ff401580e452fde956e6b2b6651
+				[ Directory 8c ]
+					14d1fba9e27e4c2899a5a27fa60d7ccba8eb93
+				[ Directory 91 ]
+					6d041dca7220a1950826e2eb9edf152a405bcc
+				[ Directory 95 ]
+					e254bb98c34be8bf01142602a8b149a16c36f5
+				[ Directory 9c ]
+					e959348ab4c2eeb61549393b4b1acc0504a649
+				[ Directory a6 ]
+					47b38ffb65c933b87287f48917b6110f543337
+				[ Directory ab ]
+					0a14bc29db793d09ed84131ddbde7bfe2b00df
+				[ Directory c8 ]
+					92c4ab4e76533af83518467631d1d750be9e59
+				[ Directory d0 ]
+					88859e5d57298129bed3d881e164ff3d6c2d72
+				[ Directory d3 ]
+					c276a19647d021164fb1e508e1728f2503a857
+				[ Directory d9 ]
+					9c9c0ce6b55e3da32a299f0582e70223385bab
+				[ Directory da ]
+					d31e915acc64dafeca6d63633331117687dafe
+				[ Directory db ]
+					a635aa6ed531ac30afdcce87e6bc4ceff95aac
+				[ Directory e6 ]
+					9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+				[ Directory ed ]
+					beb4df83d94e25af1d1287153c665e9eac0b15
+				[ Directory f1 ]
+					def1cb80ba523f67869bd1f4ddb0bfa4a7f438
+				[ Directory f3 ]
+					a2033a6e690209faf9a06dcb7790ab5e5c02ef
+				[ Directory f8 ]
+					ae43d2a458b576f94a12ad999e2132d34707d3
+				[ Directory f9 ]
+					884567ac006b90a551d94ef61da29a7db42bc4
+				[ Directory info ]
+					EMPTY....
+
+				[ Directory pack ]
+					EMPTY....
+
+			ORIG_HEAD
+			packed-refs
+			[ Directory refs ]
+				[ Directory heads ]
+					master
+				[ Directory remotes ]
+					[ Directory origin ]
+						HEAD
+						master
+				[ Directory tags ]
+					EMPTY....
+
+		[ Directory .vscode ]
+			tasks.json
+		[ Directory Bottom ]
+			Bottom.class
+			Bottom.java
+			New Text Document.txt
+			Top.class
+		[ Directory Dog Main ]
+			Dog.class
+			DogMain.class
+			DogMain.java
+			GermanShepherd.class
+		file.txt
+		[ Directory House ]
+			Building.class
+			House.class
+			House.java
+		README.md
+		[ Directory Student ]
+			CollegeStudent.class
+			GenericStudent.class
+			New Text Document.txt
+			PhdStudent.class
+			SchoolStudent.class
+			StudentMain.class
+			StudentMain.java
+			UniversityStudent.class
+	javac options
+[ Directory Lambdas ]
+	Car.class
+	CarLambda.class
+	CarLambda.java
+	[ Directory forEach ]
+		forEach.class
+		forEachMain.class
+		forEachMain.java
+	[ Directory InstanceMethodLambda ]
+		Person.class
+		PersonLambda.class
+		PersonLambda.java
+[ Directory Maps ]
+	[ Directory HashCodeEqualsMain ]
+		HashCodeEqualsMain.java
+	HashMapCaseInsensitive.class
+	HashMapCaseInsensitive.java
+	HashMapCI.class
+	HashMapCI.java
+	Person.class
+	TreeMapCaseInsensitive.class
+	TreeMapCaseInsensitive.java
+[ Directory Method Overloading ]
+	FocussedStudent.class
+	Overloading.class
+	OverloadingTest.class
+	OverloadingTest.java
+	RandomStudent.class
+	StudentMain.class
+	StudentMain.java
+	[ Directory TypeOverloading ]
+		New Text Document.txt
+		Parent.class
+		TypeOverloading.java
+[ Directory Method Overriding ]
+	Bike.class
+	Car.class
+	Truck.class
+	Vehicle.class
+	VehicleMain.class
+	VehicleMain.java
+[ Directory Objects ]
+	[ Directory Equality ]
+		matches.txt
+		New Text Document.txt
+		ObjectEqualityMain.class
+		ObjectEqualityMain.java
+		Person.class
+		[ Directory SiblingMain ]
+			New Text Document.txt
+			Sibling.class
+			SiblingMain.class
+			SiblingMain.java
+	[ Directory Final Objects ]
+		New Text Document.txt
+	[ Directory Object Main ]
+		Book.class
+		ObjectMain.class
+		ObjectMain.java
+OracleNotes.txt
+[ Directory Piping ]
+	New Text Document.txt
+	Pipe.class
+	Pipe.java
+[ Directory RECURSION ]
+	DirectoryTraversal.class
+	DirectoryTraversalRecursion.class
+	DirectoryTraversalRecursion.java
+	Factorial.class
+	FactorialRecursion.class
+	FactorialRecursion.java
+	FactorialRecursionBackup.java
+	Fibonacci.class
+	FibonacciSequence.class
+	FibonacciSequence.java
+	MyOutput.txt
+	notepad
+	SumRecursion.class
+	SumRecursionMain.class
+	SumRecursionMain.java
+	TeamShareErrors.txt
+[ Directory Row Column Major ]
+	RowColumnMajor.class
+	RowColumnMajor.java
+[ Directory Sai mama assignments ]
+	ExceptionLearning.txt
+	[ Directory List Iterations ]
+		[ Directory com ]
+			[ Directory iterations ]
+				[ Directory list ]
+					ConcurrentModExcep.class
+					ListIterationMain.class
+					Person$Gender.class
+					Person.class
+					PersonIterator.class
+					PersonList.class
+		ConcurrentModExcep.java
+		ListIterationMain.java
+	SaiMamaAssignments.txt
+[ Directory Scope ]
+	New Text Document.txt
+	ScopeMain.class
+	ScopeMain.java
+[ Directory Sets ]
+	EvenOddLambda.class
+	EvenOddLambda.java
+	SetImplementation.class
+	SetImplementationMain.class
+	SetImplementationMain.java
+	SetTheoryMain.class
+	SetTheoryMain.java
+[ Directory Static ]
+	[ Directory Main Class ]
+		MainClass.class
+		MainClass.java
+		New Text Document.txt
+	[ Directory Static Example ]
+		StaticExample.class
+		StaticExampleMain.class
+		StaticExampleMain.java
+	[ Directory Static Final ]
+		StaticFinal.class
+		StaticFinalMain.class
+		StaticFinalMain.java
+	[ Directory Static Method hiding ]
+		Athelete.class
+		Athlete.class
+		Coach.class
+		StaticMethodHiding.class
+		StaticMethodHiding.java
+	[ Directory Static Method Overloading ]
+		ChildClass.class
+		New Text Document.txt
+		ParentClass.class
+		StaticOverridingMain.class
+		StaticOverridingMain.java
+	[ Directory Static Student Main ]
+		StaticStudentMain.class
+		StaticStudentMain.java
+		Student.class
+	[ Directory StaticInheritance ]
+		ChildClass.class
+		New Text Document.txt
+		ParentClass.class
+		StaticInheritMain.class
+		StaticInheritMain.java
+	[ Directory StaticMain ]
+		Employee.class
+		StaticMain.class
+		StaticMain.java
+[ Directory Streams ]
+	EvenOddStream.class
+	EvenOddStream.java
+	[ Directory TestDogs ]
+		Dog.class
+		TestDogs.class
+		TestDogs.java
+[ Directory STRINGS ]
+	[ Directory String Equality ]
+		New Text Document.txt
+		StringEquality.class
+		StringEquality.java
+[ Directory Threads ]
+	[ Directory Producer Consumer Problem ]
+		Consumer.class
+		Producer.class
+		ProducerConsumerProblem.class
+		ProducerConsumerProblem.java
+		Queue.class
+	[ Directory Thread Interruption ]
+		LoopThreadNormalInterrupt.class
+		LoopThreadNormalInterruptMain.class
+		LoopThreadNormalInterruptMain.java
+		LoopThreadSleepInterrupt.class
+		LoopThreadSleepInterruptMain.class
+		LoopThreadSleepInterruptMain.java
+		ThreadInterrupt.class
+		ThreadInterruptMain.class
+		ThreadInterruptMain.java
+		ThreadSleepInterrupt.class
+		ThreadSleepInterruptMain.class
+		ThreadSleepInterruptMain.java
+	[ Directory Thread Local ]
+		ChildrenCounting$1.class
+		ChildrenCounting.class
+		ChildrenCountingMain.class
+		ChildrenCountingMain.java
+		[ Directory Withdrawing money ]
+			MoneyWithdrawal$1.class
+			MoneyWithdrawal.class
+			MoneyWithdrawalMain.class
+			MoneyWithdrawalMain.java
+			Whiz.class
+			Whiz.java
+	[ Directory Thread Operations ]
+		[ Directory Game Thread extending Thread ]
+			GameThread.class
+			GameThreadMain.class
+			GameThreadMain.java
+		[ Directory Game Thread implementing Runnable ]
+			GameThread.class
+			GameThreadMain.class
+			GameThreadMain.java
+		[ Directory Two Persons thread ]
+			PersonThread.class
+			PersonThreadMain.class
+			PersonThreadMain.java
+[ Directory Wrappers ]
+	EqualityTest.class
+	EqualityTest.java
+	IntegerWrapper.class
+	[ Directory New folder ]
+		EMPTY....
+
+	PassByReference.class
+	PassByReference.java
+	WrapperEquality.class
+	WrapperEquality.java
+
+
+-------------------------------------
+FILE TRAVERSAL COMPLETED..
